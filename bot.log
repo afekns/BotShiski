@@ -1,0 +1,134 @@
+2026-08-18 04:29:40,597 | WARNING | davey is not installed, voice will NOT be supported
+2026-08-18 04:29:40,601 | INFO | logging in using static token
+2026-08-18 04:29:43,111 | INFO | Shard ID None has connected to Gateway (Session ID: 3e6ff02268b7f113f968139a9885492f).
+2026-08-18 04:36:56,552 | WARNING | davey is not installed, voice will NOT be supported
+2026-08-18 04:36:56,556 | INFO | logging in using static token
+2026-08-18 04:36:57,718 | INFO | Слеш-команды синхронизированы!
+2026-08-18 04:36:58,444 | INFO | Shard ID None has connected to Gateway (Session ID: dbfa82abb6b1d7a8b6393cf0116ee5b3).
+2026-08-18 04:37:22,509 | ERROR | Ignoring exception in command None
+discord.ext.commands.errors.CommandNotFound: Command "send" is not found
+2026-08-18 04:39:17,187 | WARNING | davey is not installed, voice will NOT be supported
+2026-08-18 04:39:17,274 | INFO | logging in using static token
+2026-08-18 04:39:18,480 | INFO | Слеш-команды синхронизированы!
+2026-08-18 04:39:19,503 | INFO | Shard ID None has connected to Gateway (Session ID: 8a0eeff11f2465b06092fe4b21d06d31).
+2026-08-18 04:50:08,838 | WARNING | davey is not installed, voice will NOT be supported
+2026-08-18 04:50:08,842 | INFO | logging in using static token
+2026-08-18 04:50:10,430 | INFO | Shard ID None has connected to Gateway (Session ID: c37996776da29c30fd903e7727cc664f).
+2026-08-18 04:50:25,247 | ERROR | Ignoring exception in command tree
+Traceback (most recent call last):
+  File "C:\Users\Kotik\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\discord\app_commands\tree.py", line 1138, in wrapper
+    await self._call(interaction)
+  File "C:\Users\Kotik\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\discord\app_commands\tree.py", line 1270, in _call
+    command, options = self._get_app_command_options(data)
+                       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "C:\Users\Kotik\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\discord\app_commands\tree.py", line 1174, in _get_app_command_options
+    raise CommandNotFound(name, parents)
+discord.app_commands.errors.CommandNotFound: Application command 'send_roles' not found
+2026-08-18 04:50:37,719 | ERROR | Ignoring exception in command tree
+Traceback (most recent call last):
+  File "C:\Users\Kotik\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\discord\app_commands\tree.py", line 1138, in wrapper
+    await self._call(interaction)
+  File "C:\Users\Kotik\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\discord\app_commands\tree.py", line 1270, in _call
+    command, options = self._get_app_command_options(data)
+                       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "C:\Users\Kotik\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\discord\app_commands\tree.py", line 1174, in _get_app_command_options
+    raise CommandNotFound(name, parents)
+discord.app_commands.errors.CommandNotFound: Application command 'send_roles' not found
+2026-08-18 04:51:45,156 | WARNING | davey is not installed, voice will NOT be supported
+2026-08-18 04:51:45,160 | INFO | logging in using static token
+2026-08-18 04:51:46,116 | INFO | Слеш-команды синхронизированы!
+2026-08-18 04:51:46,804 | INFO | Shard ID None has connected to Gateway (Session ID: edb43d4d38fd2176567f057944de289c).
+2026-08-18 04:52:03,522 | WARNING | Не удалось сменить ник marenno (ошибка иерархии ролей)
+2026-08-18 04:52:37,663 | WARNING | Не удалось сменить ник marenno (ошибка иерархии ролей)
+2026-08-18 15:07:29,757 | WARNING | davey is not installed, voice will NOT be supported
+2026-08-18 15:07:29,771 | INFO | logging in using static token
+2026-08-18 15:07:31,242 | INFO | Слеш-команды синхронизированы!
+2026-08-18 15:07:32,557 | INFO | Shard ID None has connected to Gateway (Session ID: 5ddf4b698f831c42b37d05808b4309db).
+2026-08-18 15:27:58,318 | WARNING | Не удалось сменить ник marenno (ошибка иерархии ролей)
+2026-08-18 15:28:44,319 | WARNING | Не удалось сменить ник marenno (ошибка иерархии ролей)
+2026-08-18 15:42:02,172 | WARNING | davey is not installed, voice will NOT be supported
+2026-08-18 15:42:02,190 | INFO | logging in using static token
+2026-08-18 15:46:57,433 | WARNING | davey is not installed, voice will NOT be supported
+2026-08-18 15:46:57,437 | INFO | logging in using static token
+2026-08-18 15:47:56,130 | WARNING | davey is not installed, voice will NOT be supported
+2026-08-18 15:47:56,134 | INFO | logging in using static token
+2026-08-18 15:55:50,936 | WARNING | davey is not installed, voice will NOT be supported
+2026-08-18 15:55:50,940 | INFO | logging in using static token
+2026-08-18 15:58:57,137 | WARNING | davey is not installed, voice will NOT be supported
+2026-08-18 15:58:57,140 | INFO | logging in using static token
+2026-08-18 15:59:37,348 | WARNING | davey is not installed, voice will NOT be supported
+2026-08-18 15:59:37,352 | INFO | logging in using static token
+2026-08-18 15:59:39,131 | INFO | Слеш-команды синхронизированы!
+2026-08-18 15:59:39,816 | INFO | Shard ID None has connected to Gateway (Session ID: de80a5a23900c14d120a134c0e1e3d1e).
+2026-08-18 15:59:41,919 | INFO | Бот Лукашенко#2736 запущен и готов к работе!
+2026-08-18 16:00:14,942 | WARNING | Не удалось сменить ник marenno (ошибка иерархии ролей)
+2026-08-18 16:00:29,260 | WARNING | davey is not installed, voice will NOT be supported
+2026-08-18 16:00:29,267 | INFO | logging in using static token
+2026-08-18 16:00:30,886 | INFO | Слеш-команды синхронизированы!
+2026-08-18 16:00:31,553 | INFO | Shard ID None has connected to Gateway (Session ID: d2119bf6d7933f0b0cc6d3f2cea9deaa).
+2026-08-18 16:00:33,570 | INFO | Бот Лукашенко#2736 запущен и готов к работе!
+2026-08-18 16:00:34,206 | INFO | [restore_main_panels] Панель ROLES восстановлена после перезапуска
+2026-08-18 17:23:02,671 | INFO | Shard ID None has successfully RESUMED session d2119bf6d7933f0b0cc6d3f2cea9deaa.
+2026-08-18 18:09:19,242 | WARNING | Не удалось сменить ник herisson2.0 (ошибка иерархии ролей)
+2026-08-18 18:09:22,135 | ERROR | Ошибка View <Button style=<ButtonStyle.success: 3> url=None disabled=False label='\u2714\ufe0f Принять' emoji=None row=None sku_id=None id=None>: 404 Not Found (error code: 10062): Unknown interaction
+Traceback (most recent call last):
+  File "C:\Users\Kotik\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\discord\ui\view.py", line 598, in _scheduled_task
+    await item.callback(interaction)
+  File "D:\bot\2\bot.py", line 205, in accept
+    await interaction.response.send_message("Заявка одобрена, ник изменен.", ephemeral=True)
+  File "C:\Users\Kotik\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\discord\interactions.py", line 1085, in send_message
+    data = await adapter.create_interaction_response(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "C:\Users\Kotik\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\discord\webhook\async_.py", line 224, in request
+    raise NotFound(response, data)
+discord.errors.NotFound: 404 Not Found (error code: 10062): Unknown interaction
+2026-08-18 18:10:05,755 | WARNING | Не удалось сменить ник herisson2.0 (ошибка иерархии ролей)
+2026-08-18 18:12:05,320 | WARNING | davey is not installed, voice will NOT be supported
+2026-08-18 18:12:05,325 | INFO | logging in using static token
+2026-08-18 18:12:06,275 | INFO | Слеш-команды синхронизированы!
+2026-08-18 18:12:08,358 | INFO | Shard ID None has connected to Gateway (Session ID: b0f018373e59a3dde6e8a67e0d5fabf5).
+2026-08-18 18:12:10,377 | INFO | Бот Секретарь партии#2736 запущен и готов к работе!
+2026-08-18 18:12:10,900 | INFO | [restore_main_panels] Панель ROLES восстановлена после перезапуска
+2026-08-18 18:12:11,511 | INFO | [restore_main_panels] Панель VACATION восстановлена после перезапуска
+2026-08-18 18:12:12,075 | INFO | [restore_main_panels] Панель APPEALS восстановлена после перезапуска
+2026-08-18 18:12:32,666 | ERROR | Ignoring exception in command None
+discord.ext.commands.errors.CommandNotFound: Command "gov" is not found
+2026-08-18 18:14:15,481 | WARNING | davey is not installed, voice will NOT be supported
+2026-08-18 18:14:15,485 | INFO | logging in using static token
+2026-08-18 18:14:16,535 | INFO | Слеш-команды синхронизированы!
+2026-08-18 18:14:17,135 | INFO | Shard ID None has connected to Gateway (Session ID: 2520d3302fb1a0d96ad4fef1fc903c5d).
+2026-08-18 18:14:19,197 | INFO | Бот Секретарь партии#2736 запущен и готов к работе!
+2026-08-18 18:14:19,749 | INFO | [restore_main_panels] Панель ROLES восстановлена после перезапуска
+2026-08-18 18:14:20,327 | INFO | [restore_main_panels] Панель VACATION восстановлена после перезапуска
+2026-08-18 18:14:20,916 | INFO | [restore_main_panels] Панель APPEALS восстановлена после перезапуска
+2026-08-18 18:15:45,884 | WARNING | davey is not installed, voice will NOT be supported
+2026-08-18 18:15:45,888 | INFO | logging in using static token
+2026-08-18 18:15:46,813 | INFO | Слеш-команды синхронизированы!
+2026-08-18 18:15:47,476 | INFO | Shard ID None has connected to Gateway (Session ID: 1063baa7e6e5b17b3a34ba6649469163).
+2026-08-18 18:15:49,497 | INFO | Бот Шишки#2736 запущен и готов к работе!
+2026-08-18 18:15:50,000 | INFO | [restore_main_panels] Панель ROLES восстановлена после перезапуска
+2026-08-18 18:15:50,897 | INFO | [restore_main_panels] Панель VACATION восстановлена после перезапуска
+2026-08-18 18:15:51,525 | INFO | [restore_main_panels] Панель APPEALS восстановлена после перезапуска
+2026-08-18 18:20:05,460 | INFO | Shard ID None has successfully RESUMED session 1063baa7e6e5b17b3a34ba6649469163.
+2026-08-18 20:08:46,851 | INFO | Shard ID None has successfully RESUMED session 1063baa7e6e5b17b3a34ba6649469163.
+2026-08-18 20:56:28,331 | ERROR | Ошибка View <Button style=<ButtonStyle.success: 3> url=None disabled=False label='\u2714\ufe0f Принять' emoji=None row=None sku_id=None id=None>: 404 Not Found (error code: 10062): Unknown interaction
+Traceback (most recent call last):
+  File "C:\Users\Kotik\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\discord\ui\view.py", line 598, in _scheduled_task
+    await item.callback(interaction)
+  File "D:\bot\2\bot.py", line 205, in accept
+    await interaction.response.send_message("Заявка одобрена, ник изменен.", ephemeral=True)
+  File "C:\Users\Kotik\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\discord\interactions.py", line 1085, in send_message
+    data = await adapter.create_interaction_response(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "C:\Users\Kotik\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\discord\webhook\async_.py", line 224, in request
+    raise NotFound(response, data)
+discord.errors.NotFound: 404 Not Found (error code: 10062): Unknown interaction
+2026-08-18 23:05:18,416 | INFO | Shard ID None has successfully RESUMED session 1063baa7e6e5b17b3a34ba6649469163.
+2026-08-19 00:44:09,008 | INFO | Shard ID None has successfully RESUMED session 1063baa7e6e5b17b3a34ba6649469163.
+2026-08-19 01:12:25,993 | INFO | Shard ID None has successfully RESUMED session 1063baa7e6e5b17b3a34ba6649469163.
